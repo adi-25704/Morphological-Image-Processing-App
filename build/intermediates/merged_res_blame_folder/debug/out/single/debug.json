@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-pngs-0:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/drawable_credit1.png.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/drawable/credit1.png"
+    },
+    {
+        "merged": "com.example.unitconvert.app-merged_res-5:/drawable_tutorial.png.flat",
+        "source": "com.example.unitconvert.app-main-7:/drawable/tutorial.png"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/layout_activity_erosion.xml.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/layout/activity_erosion.xml"
+    },
+    {
+        "merged": "com.example.unitconvert.app-merged_res-5:/layout_activity_tutorial.xml.flat",
+        "source": "com.example.unitconvert.app-main-7:/layout/activity_tutorial.xml"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-pngs-0:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/layout_activity_bound_ext.xml.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/layout/activity_bound_ext.xml"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/layout_activity_dilation.xml.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/layout/activity_dilation.xml"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/layout_activity_binarise.xml.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/layout/activity_binarise.xml"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/drawable_c2.png.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/drawable/c2.png"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/layout_activity_imopen.xml.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/layout/activity_imopen.xml"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-pngs-0:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/drawable_ic_launcher.png.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-pngs-0:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/drawable_credit2.png.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/drawable/credit2.png"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/layout_activity_tutorial.xml.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/layout/activity_tutorial.xml"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-pngs-0:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/drawable_image.jpeg.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/drawable/image.jpeg"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/layout_activity_morphological.xml.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/layout/activity_morphological.xml"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/layout_activity_credits.xml.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/layout/activity_credits.xml"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/layout_activity_imclose.xml.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/layout/activity_imclose.xml"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-pngs-0:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/drawable_white.jpg.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/drawable/white.jpg"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/drawable_c1.png.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/drawable/c1.png"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/layout_activity_main2.xml.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-merged_res-5:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/krishsagar/Desktop/DMProject/daemon/7.5/com.example.unitconvert.app-pngs-0:/drawable-xxhdpi/ic_launcher_background.png"
+    }
+]
